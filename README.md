@@ -24,12 +24,12 @@ This indicates, that mmc.exe will be executed from a path that contains an
 environment variable (%systemroot%), thus making it vulnerable to environment
 variable injection.
 
-How to change %systemroot%?
+How to change `%systemroot%`?
 
 Simple: Through Volatile Environment.
 
-Define your own %systemroot% in HKEY_CURRENT_USER\Volatile Environment and
-perfmon.exe will look for mmc.exe there instead. This makes the exploit
+Define your own %systemroot% in `HKEY_CURRENT_USER\Volatile Environment`
+and perfmon.exe will look for mmc.exe there instead. This makes the exploit
 particularly interesting as no DLL is required, at all. No injection, no
 hijacking, we can just name our payload "mmc.exe" and it will be executed with
 high IL.
