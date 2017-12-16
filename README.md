@@ -1,13 +1,13 @@
 # Performance Monitor Volatile Environment LPE
 
-| Exploit Information                              |
-|:------------ |:--------------------------------- |
-| Publish Date | 28.06.2017                        |
-| Fixed        | Windows 10 RS3 (16299)            |
-| Target       | Microsoft Windows                 |
-| exploit-db   | N/A                               |
-| CVE          | N/A                               |
-| Versions     | Windows 7-10, x86/x64 independent |
+| Exploit Information |                                   |
+|:------------------- |:--------------------------------- |
+| Publish Date        | 28.06.2017                        |
+| Fixed               | Windows 10 RS3 (16299)            |
+| Target              | Microsoft Windows                 |
+| exploit-db          | N/A                               |
+| CVE                 | N/A                               |
+| Versions            | Windows 7-10, x86/x64 independent |
 
 ## Description
 
