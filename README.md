@@ -3,7 +3,7 @@
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
 | Publish Date        | 28.06.2017                        |
-| Fixed               | Windows 10 RS3 (16299)            |
+| Patched             | Windows 10 RS3 (16299)            |
 | Target              | Microsoft Windows                 |
 | exploit-db          | N/A                               |
 | CVE                 | N/A                               |
