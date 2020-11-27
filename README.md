@@ -2,7 +2,7 @@
 
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
-| Publish Date        | 28.06.2017                        |
+| Date                | 28.06.2017                        |
 | Patched             | Windows 10 RS3 (16299)            |
 | Tested on           | Windows 7-10, x86/x64 independent |
 
@@ -44,6 +44,7 @@ These two screenshots show both x86 and x64 binaries executed on a 64-bit operat
 Compiled binaries with example payload:
 
 [![](http://bytecode77.com/public/fileicons/zip.png) PerformanceMonitorVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/PerformanceMonitorVolatileEnvironmentLPE.zip)
+(**ZIP Password:** bytecode77)
 
 ## Project Page
 
