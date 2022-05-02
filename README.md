@@ -43,7 +43,7 @@ These two screenshots show both x86 and x64 binaries executed on a 64-bit operat
 
 Compiled binaries with example payload:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) PerformanceMonitorVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/PerformanceMonitorVolatileEnvironmentLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) PerformanceMonitorVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/PerformanceMonitorVolatileEnvironmentLPE.zip)
 (**ZIP Password:** bytecode77)
 
 ## Project Page
