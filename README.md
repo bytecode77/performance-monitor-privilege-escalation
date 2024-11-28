@@ -12,7 +12,7 @@ perfmon.exe (Performance Monitor) is an auto-elevated binary that executes mmc.e
 
 Now, let's take a look at the disassembly of the data section:
 
-![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/disassembly.png)
+![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/disassembly.webp)
 
 This indicates, that mmc.exe will be executed from a path that contains an environment variable (%systemroot%), thus making it vulnerable to environment variable injection.
 
@@ -36,8 +36,8 @@ Executing either one of the x64 or x86 binaries on a 64-bit operating system wil
 
 These two screenshots show both x86 and x64 binaries executed on a 64-bit operating system. As you see, the x86 binary causes a second commandline argument to get passed to "mmc.exe".
 
-![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/result-x86.png)
-![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/result-x64.png)
+![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/result-x86.webp)
+![](https://bytecode77.com/images/pages/performance-monitor-privilege-escalation/result-x64.webp)
 
 ## Downloads
 
